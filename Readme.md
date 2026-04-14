@@ -1,4 +1,4 @@
-# Ask My Docs - CPU Optimized RAG
+# RAG Chatbot - Ask My Docs
 
 ## 📌 Overview
 Ask My Docs is a **Proof of Concept (POC)** for a Retrieval-Augmented Generation (RAG) chatbot.  
